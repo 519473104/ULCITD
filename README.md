@@ -17,7 +17,7 @@ ULCITD/
 ├── configs/
 │   └── foster_uda.json      # Hyperparameter configuration
 ├── models/
-│   ├── foster_uda.py        # Core model (UDA + pruning + distillation)
+│   ├── foster_uda.py        # Core model (SL+UL + pruning + distillation)
 │   ├── base.py              # Base learner class
 │   └── pruning_diagnostics.py
 ├── convs/
@@ -25,7 +25,7 @@ ULCITD/
 ├── utils/
 │   ├── data_manager.py      # Dataset management
 │   ├── data_FD.py           # Fault diagnosis data loading
-│   ├── inc_net.py           # Incremental network (FOSTERNet)
+│   ├── inc_net.py           # Incremental network
 │   ├── factory.py           # Model factory
 │   └── toolkit.py           # Utility functions
 ├── diagnostics/             # Pruning diagnostics output
