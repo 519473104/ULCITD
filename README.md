@@ -92,7 +92,6 @@ python main.py --config ./configs/foster_uda.json
 This runs 5 repeated experiments (different seeds) x 6 cross-domain tasks, and outputs:
 
 - `./diagnostics/results_summary.csv` -- Full results per run
-- `./diagnostics/results_key_metrics.csv` -- Key metrics with Mean +/- Std
 
 ## Configuration
 
