@@ -4,11 +4,7 @@
 
 ## Overview
 
-ULCITD is an unsupervised cross-domain class-incremental learning framework for machinery fault diagnosis. It addresses the challenge of continuously learning new fault classes from unlabeled target-domain data streams while preserving previously learned knowledge. The framework integrates three core modules:
-
-- **Unsupervised Domain Adaptation (UDA)** -- Aligns source and target domain feature distributions via consistency regularization, enabling fault diagnosis without target-domain labels.
-- **Incremental Cumulative Weight-Mask Pruning** -- Progressively compresses frozen network branches using global magnitude-based weight masking, preventing linear parameter growth as tasks accumulate.
-- **Multi-Level Knowledge Distillation** -- Combines decision-level and feature-level distillation to mitigate catastrophic forgetting during class-incremental expansion.
+ULCITD is an unsupervised cross-domain class-incremental learning framework for machinery fault diagnosis. It addresses the challenge of continuously learning new fault classes from unlabeled target-domain data streams while preserving previously learned knowledge. 
 
 ## Project Structure
 
