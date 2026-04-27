@@ -1,6 +1,6 @@
 # ULCITD
 
-**Cross-Domain Lifelong Learning: Unsupervised Lightweight Class-Incremental Transfer Diagnosis of Machinery Faults in Industrial Data Streams**
+**Cuiying Lin, Yun Kong, Yufan Lv, Junhui Qi, Qinhai Han, Mingming Dong, Hui Liu, and Fulei Chu. Cross-Domain Lifelong Learning: Unsupervised Lightweight Class-Incremental Transfer Diagnosis of Machinery Faults in Industrial Data Streams**
 
 ## Overview
 
